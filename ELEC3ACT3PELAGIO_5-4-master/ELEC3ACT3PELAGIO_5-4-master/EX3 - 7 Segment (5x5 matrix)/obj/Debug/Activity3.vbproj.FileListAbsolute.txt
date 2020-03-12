@@ -1,0 +1,11 @@
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\obj\Debug\Activity3.vbprojAssemblyReference.cache
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\obj\Debug\EX3___7_Segment__5x5_matrix_.Form1.resources
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\obj\Debug\EX3___7_Segment__5x5_matrix_.Resources.resources
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\obj\Debug\Activity3.vbproj.GenerateResource.cache
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\bin\Debug\EX3 - 7 Segment (5x5 matrix).exe.config
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\bin\Debug\EX3 - 7 Segment (5x5 matrix).exe
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\bin\Debug\EX3 - 7 Segment (5x5 matrix).pdb
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\bin\Debug\EX3 - 7 Segment (5x5 matrix).xml
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\obj\Debug\EX3 - 7 Segment (5x5 matrix).exe
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\obj\Debug\EX3 - 7 Segment (5x5 matrix).xml
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - 7 Segment (5x5 matrix)\EX3 - 7 Segment (5x5 matrix)\obj\Debug\EX3 - 7 Segment (5x5 matrix).pdb
